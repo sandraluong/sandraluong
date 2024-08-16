@@ -7,7 +7,7 @@ Web Developer
 As a self-taught junior frontend developer with a passion for learning and problem-solving.I am excited to bring my skills and enthusiasm to a team environment. I am a quick learner and always willing to go beyond my assigned tasks to contribute to the success of the project and the team. My strong communication and collaboration skills make me a valuable team player, and I am confident in my ability to learn and adapt quickly to new technologies and challenges.
 
 * 🌍  I'm based in Czech Republic
-* ✉️  You can contact me at [elieluong1993@gmail.com](mailto:elieluong1993@gmail.com)
+* ✉️  You can contact me at [hgluong.dev@gmail.com](mailto:hgluong.dev@gmail.com)
 * 🧠  I'm learning Javascript
 
 ### Skills
